@@ -1,0 +1,1 @@
+{"version":1,"defects":{"HelloWorldTest::testSayHello":4,"GameBoradTest::testInitGameBorad":4,"MinesweeperTest::testGameBorad":5,"MinesweeperTest::testGameGrid":5},"times":{"HelloWorldTest::testSayHello":0.002,"GameBoradTest::testSayHello":0.002,"GameBoradTest::testInitGameBorad":0.002,"MinesweeperTest::testGameBorad":0.002,"MinesweeperTest::testGameGrid":0.002}}

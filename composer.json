@@ -1,0 +1,17 @@
+{
+    "name": "alireza/baloutco",
+    "description": "Test Library",
+    "autoload": {
+        "psr-4": {
+            "Alireza\\Baloutco\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alireza Rostami"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
